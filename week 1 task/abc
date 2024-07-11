@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Document</title>
+</head>
+<body>
+    <tablbe border="2">1</tablbe>
+
+    <th>sno</th>
+    <th>name</th>
+    <tr>
+        <tb>abc</tb>
+    </tr>
+</table border>
+    </body>
+</html>
+
